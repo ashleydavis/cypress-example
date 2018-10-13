@@ -18,7 +18,7 @@ Open the Cypress test runner:
 
     npx cypress open
 
-Then browse to example.test.js, open it and run all tests.
+Then click "Run all specs" in the top right-hand corner.
 
 ### Command line 
 

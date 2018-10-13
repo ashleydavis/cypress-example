@@ -1,4 +1,4 @@
-describe('My First Test', () => {
+describe('Example web page test', () => {
 
     it('Visits the Kitchen Sink', () => {
         
