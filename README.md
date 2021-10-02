@@ -4,6 +4,8 @@ An example of using the Cypress test runner.
 
 Created from the Cypress [getting started guide](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html).
 
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
 ## Setup
 
 Clone the repo then:
